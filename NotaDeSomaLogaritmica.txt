@@ -1,0 +1,28 @@
+Given a logarithm base X and two values A and B, 
+return a sum of logratihms with the base X: 
+
+**Retorne a soma do logaritmo de dois valores(A e B) em uma base X qualquer:
+
+**Mudança de base : log natural do valor / log natural da base
+
+Lógica:
+1º Com Valor definido{
+	- Criar uma função que realiza a mudança de base;
+	- Criar as váriaveis A, B e X;
+	- Atribuir valores para cada uma;
+	- Calcular o logaritmo de A e B chamando a função base;
+	- Criar a variavel de soma;
+	- Mostrar a saída;
+	- Fim.
+}
+
+
+2º Com valores quaiquer (Usuário){
+	- Criar uma função que realiza a mudança de base;
+	- Criar as váriaveis A, B e X;
+	- Perguntar ao Usuário os valores de cada uma;
+	- Calcular o logaritmo de A e B chamando a função base;
+	- Criar a variavel de soma;
+	- Mostrar a saída;
+	- Fim.
+}
